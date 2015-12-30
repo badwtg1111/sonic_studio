@@ -1,0 +1,6 @@
+See file:///home/chenchunsheng/sonic-ndk1/app/build/tmp/compileArmeabiDebugAllSonicSharedLibrarySonicMainC/output.txt for all output for compileArmeabiDebugAllSonicSharedLibrarySonicMainC.
+compiling sonicjni.c successful.
+
+compiling sonic.c successful.
+
+Finished compileArmeabiDebugAllSonicSharedLibrarySonicMainC, see full log file:///home/chenchunsheng/sonic-ndk1/app/build/tmp/compileArmeabiDebugAllSonicSharedLibrarySonicMainC/output.txt.

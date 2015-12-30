@@ -1,0 +1,4 @@
+See file:///home/chenchunsheng/sonic-ndk1/app/build/tmp/linkArm64-v8aDebugAllSonicSharedLibrary/output.txt for all output for linkArm64-v8aDebugAllSonicSharedLibrary.
+linking libsonic.so successful.
+
+Finished linkArm64-v8aDebugAllSonicSharedLibrary, see full log file:///home/chenchunsheng/sonic-ndk1/app/build/tmp/linkArm64-v8aDebugAllSonicSharedLibrary/output.txt.

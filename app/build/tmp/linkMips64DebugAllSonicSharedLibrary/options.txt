@@ -1,0 +1,16 @@
+-shared
+-Wl,-soname,libsonic.so
+-o
+/home/chenchunsheng/sonic-ndk1/app/build/intermediates/binaries/debug/all/obj/mips64/libsonic.so
+/home/chenchunsheng/sonic-ndk1/app/build/intermediates/objectFiles/mips64DebugAllSonicSharedLibrary/sonicMainC/myr8st85qncgled88xmd2ex5/sonicjni.o
+/home/chenchunsheng/sonic-ndk1/app/build/intermediates/objectFiles/mips64DebugAllSonicSharedLibrary/sonicMainC/70hvbbl4rblznhr6c2wugbolz/sonic.o
+-Wl,--no-undefined
+-Wl,-z,noexecstack
+-Wl,-z,relro
+-Wl,-z,now
+--sysroot=/home/chenchunsheng/android-ndk-r10e/platforms/android-21/arch-mips64
+-Wl,--build-id
+-L/home/chenchunsheng/android-ndk-r10e/sources/cxx-stl/stlport/libs/mips64
+-lstlport_static
+-no-canonical-prefixes
+-llog

@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/home/chenchunsheng/sonic-ndk1/app/build/intermediates/res/merged/all/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "/home/chenchunsheng/sonic-ndk1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 46,
+                    "endOffset": 144
+                },
+                "from": {
+                    "file": "/home/chenchunsheng/sonic-ndk1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 46,
+                        "endOffset": 144
+                    }
+                }
+            }
+        ]
+    }
+]

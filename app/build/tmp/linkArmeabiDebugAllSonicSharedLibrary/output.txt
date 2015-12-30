@@ -1,0 +1,4 @@
+See file:///home/chenchunsheng/sonic-ndk1/app/build/tmp/linkArmeabiDebugAllSonicSharedLibrary/output.txt for all output for linkArmeabiDebugAllSonicSharedLibrary.
+linking libsonic.so successful.
+
+Finished linkArmeabiDebugAllSonicSharedLibrary, see full log file:///home/chenchunsheng/sonic-ndk1/app/build/tmp/linkArmeabiDebugAllSonicSharedLibrary/output.txt.

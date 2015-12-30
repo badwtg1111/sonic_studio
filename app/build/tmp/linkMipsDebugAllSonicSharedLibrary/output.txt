@@ -1,0 +1,4 @@
+See file:///home/chenchunsheng/sonic-ndk1/app/build/tmp/linkMipsDebugAllSonicSharedLibrary/output.txt for all output for linkMipsDebugAllSonicSharedLibrary.
+linking libsonic.so successful.
+
+Finished linkMipsDebugAllSonicSharedLibrary, see full log file:///home/chenchunsheng/sonic-ndk1/app/build/tmp/linkMipsDebugAllSonicSharedLibrary/output.txt.

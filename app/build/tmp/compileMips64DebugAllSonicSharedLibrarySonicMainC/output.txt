@@ -1,0 +1,6 @@
+See file:///home/chenchunsheng/sonic-ndk1/app/build/tmp/compileMips64DebugAllSonicSharedLibrarySonicMainC/output.txt for all output for compileMips64DebugAllSonicSharedLibrarySonicMainC.
+compiling sonicjni.c successful.
+
+compiling sonic.c successful.
+
+Finished compileMips64DebugAllSonicSharedLibrarySonicMainC, see full log file:///home/chenchunsheng/sonic-ndk1/app/build/tmp/compileMips64DebugAllSonicSharedLibrarySonicMainC/output.txt.

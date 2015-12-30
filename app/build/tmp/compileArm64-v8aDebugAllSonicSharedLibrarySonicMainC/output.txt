@@ -1,0 +1,6 @@
+See file:///home/chenchunsheng/sonic-ndk1/app/build/tmp/compileArm64-v8aDebugAllSonicSharedLibrarySonicMainC/output.txt for all output for compileArm64-v8aDebugAllSonicSharedLibrarySonicMainC.
+compiling sonicjni.c successful.
+
+compiling sonic.c successful.
+
+Finished compileArm64-v8aDebugAllSonicSharedLibrarySonicMainC, see full log file:///home/chenchunsheng/sonic-ndk1/app/build/tmp/compileArm64-v8aDebugAllSonicSharedLibrarySonicMainC/output.txt.
